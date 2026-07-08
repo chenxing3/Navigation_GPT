@@ -34,6 +34,9 @@ of text: by next‑element prediction over an ordered stream of movements, locat
 
 ---
 
+![Bat Navigation Demo](https://github.com/chenxing3/Navigation_GPT/blob/main/demo/bat_nav_real.gif?raw=true)
+
+---
 ## How it works
 
 ### The "language of navigation"
