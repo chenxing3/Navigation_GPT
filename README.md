@@ -5,6 +5,7 @@
 This repository contains the code, data, and figure scripts for the study:
 
 > **A bat‑inspired GPT self‑learns to map and navigate large‑scale environments based on acoustic information**
+
 > Xing Chen and Yossi Yovel, School of Zoology & Sagol School of Neuroscience, Tel Aviv University.
 
 ---
